@@ -1,0 +1,28 @@
+{
+  "name": "ticket-gaber",
+  "version": "1.0.1",
+  "description": "Simple Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "enmap": "^5.2.9",
+    "discord.js": "^11.5.1",
+    "better-sqlite3": "^7.0.1",
+    "http": "^0.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/gaberelsayed/ticket-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bot",
+    "ticket",
+    "gaber"
+  ]
+}
